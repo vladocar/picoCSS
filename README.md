@@ -1,10 +1,10 @@
 picoCSS - really small JavaScript Framework
 -----
-picoCSS is small(0,35kb gzipped & compressed)  JavaScript Library for basic CSS DOM manipulation optimized for webkit browsers(Safari, Chrome) also works in Firefox, Opera without the part of animation. 
+picoCSS is small (0,35kb gzipped & compressed)  JavaScript Library for basic CSS DOM manipulation optimized for webkit browsers(Safari, Chrome) also works in Firefox, Opera without the part of animation. 
 
 picoCSS dosen't aim to be complete JS framework just simple tool for simple needs. 
 
-Basically if only need to do simple CSS JavaScript manipulation for your next iPad,iPhone or Android app, picoCSS can help you. 
+Basically if only need to do simple CSS JavaScript manipulation for your next iPad, iPhone or Android app, picoCSS can help you. 
 
 With picoCSS you can:
 ---------------------
