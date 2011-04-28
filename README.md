@@ -26,3 +26,6 @@ or
 
 	p.select("#main").att("class","bumm");
 
+If you open picoCSS.js file you will notice that the library is very easy to extend. 
+
+Feel free to do any kind of modification to the library.
