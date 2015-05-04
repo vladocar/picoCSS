@@ -36,9 +36,9 @@ Google Closure Compiler was used for compressing the JS file.
 Demos:
 ---------------------
 
-  * [Demo1](http://www.allapis.com/picoCSS/sun.html)
-  * [Demo2](http://www.allapis.com/picoCSS/css.html)
-  * [Demo3](http://www.allapis.com/picoCSS/of-onn.html)
-  * [Demo4](http://www.allapis.com/picoCSS/animate.html)
+  * [Demo1](https://dl.dropboxusercontent.com/u/2111778/picoCSS/sun.html)
+  * [Demo2](https://dl.dropboxusercontent.com/u/2111778/picoCSS/css.html)
+  * [Demo3](https://dl.dropboxusercontent.com/u/2111778/picoCSS/of-onn.html)
+  * [Demo4](https://dl.dropboxusercontent.com/u/2111778/picoCSS/animate.html)
 
 Also my blog post [picoCSS - JavaScript Framework](http://www.vcarrer.com/2011/04/picocss-really-small-javascript.html)
