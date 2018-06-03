@@ -42,3 +42,12 @@ Demos:
   * [Demo4](http://vladocar.github.io/picoCSS/animate.html)
 
 Also my blog post [picoCSS - JavaScript Framework](http://www.vcarrer.com/2011/04/picocss-really-small-javascript.html)
+
+You can use direct download or npm:
+---------------------
+
+```shell
+$ npm i @vladocar/picocss
+```
+
+
